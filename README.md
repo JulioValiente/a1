@@ -3,14 +3,14 @@
 
 **Please view `COMP4513 Assignment 1.pdf` for instructions**
 # supabase psw QmE0Q9aC5gWGnjZB
-**I couldnt get the hosting working in time but i tested locally the following<br/>**__
-**localhost:8080/api/seasons**__
-**localhost:8080/api/circuits**
-**localhost:8080/api/circuits/monza**
-**localhost:8080/api/circuits/calgary**
-**localhost:8080/api/constructors**
-**localhost:8080/api/constructors/ferrari**
-**localhost:8080/api/drivers**
+**I couldnt get the hosting working in time but i tested locally the following
+**localhost:8080/api/seasons**<br/>
+**localhost:8080/api/circuits**<br/>
+**localhost:8080/api/circuits/monza**<br/>
+**localhost:8080/api/circuits/calgary**<br/>
+**localhost:8080/api/constructors**<br/>
+**localhost:8080/api/constructors/ferrari**<br/>
+**localhost:8080/api/drivers**<br/>
 **localhost:8080/api/drivers/Norris**
 **localhost:8080/api/drivers/norris**
 **localhost:8080/api/drivers/connolly**
